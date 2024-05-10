@@ -74,6 +74,6 @@ Ohio Ante will use a best of 1 game structure.
 
 ## MANA BURN STILL HAPPENS (as in, players lose 1 point of life for each unused mana in the mana pool at the end of each phase)
 ## THE FOLLOWING CARDS WILL HAVE THE UPDATED EC ORACLE TEXT:
--Chaos Orb
--Falling Star
--Ring of Ma’rûf
+- Chaos Orb
+- Falling Star
+- Ring of Ma’rûf
