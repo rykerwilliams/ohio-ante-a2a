@@ -14,13 +14,14 @@
 - Ice Age
 - Alliances
 
-# Ohio Ante - Club Cards
+# Specially Legal Cards
+## Ohio Ante - Club Cards
 - Ebon Mox, or other Ebon created cards are allowed. If running an Ebon Mox, you can’t also run a Mox Jet.  It is one or the other. 
 - Roc Lotus and other Roc Cards ARE permitted in addition to their original printings. 
-
-# Specially Legal Cards
-- Enemy Pain Lands are specially legal (Shivan reef, Caves of koilos etc)
-- Harper Prism Book Promos: Mana Crypt, Windseeker Centaur, Giant Badger, Arena, Sewers of Estark, and Nalathni Dragon.
+## Enemy Pain Lands
+- Legal. Must use original art and frame.
+## Harper Prism Book Promos
+- Mana Crypt, Windseeker Centaur, Giant Badger, Arena, Sewers of Estark, and Nalathni Dragon. Must use original art and frame.
 
 # Additional Sets and Cards Allowed (ie. REPRINTS)
 - Ohio Ante allow all non-foil cards from the sets above, that were reprinted IN ANY LANGUAGE with the original frame and original art. So for example, a Chronicles City of Brass, Fifth Edition Wrath of God, Time Spiral Psionic Blast, and Collector’s Edition Mox Ruby would all be legal (original frame + original art), while an Arena 1996 Counterspell would not be legal (different art). The misprinted Revised Serendib Efreet (with Ifh-Biff Efreet’s art, and green border) is of course allowed, because it was printed in one of the original sets in 1994 (Revised).
